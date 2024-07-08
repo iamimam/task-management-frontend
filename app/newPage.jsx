@@ -1,8 +1,9 @@
 import React from 'react'
 
-export default <functiov></functiov>() {
+export default function() {
   return (
-    <h2>Page not found </h2>
-  
+    <div> 
+        <h1> This is my First Page</h1>
+    </div>
   )
 }
