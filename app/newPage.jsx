@@ -2,6 +2,7 @@ import React from 'react'
 
 export default <functiov></functiov>() {
   return (
-    <div></div>
+    <h2>Page not found </h2>
+  
   )
 }
